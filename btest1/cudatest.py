@@ -1,3 +1,4 @@
+import originpro as op
 from numba import cuda
 import numpy as np
 @cuda.jit
