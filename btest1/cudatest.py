@@ -13,3 +13,5 @@ print('Kernel launch: cudakernel0[1, 1](array)')
 cudakernel0[1, 1](array)
 
 print('Updated array:',array)
+
+print('hello')
